@@ -1,0 +1,22 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "Templates generator for Certopus",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Certopus/templates.git"
+  },
+  "author": "Vraj Gohil",
+  "bugs": {
+    "url": "https://github.com/Certopus/templates/issues"
+  },
+  "homepage": "https://github.com/Certopus/templates#readme",
+  "dependencies": {
+    "globby": "^12.0.2"
+  }
+}

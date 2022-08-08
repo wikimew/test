@@ -1,0 +1,17 @@
+{
+  "alpha": [
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/1.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/General.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/a4_radiant.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/acm.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/be_cognet_center.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/alpha/fonts.ctf"
+  ],
+  "beta": [
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/beta/6.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/beta/Jury.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/beta/Oracle.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/beta/lines_test2.ctf",
+    "https://raw.githubusercontent.com/wikimew/test/main/templates/beta/new.ctf"
+  ]
+}
